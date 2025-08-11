@@ -1,4 +1,4 @@
-# Personalized-Healthcare-Recommendation-System-for-ICU-Patients
+# Healthcare-Recommendation-System
 
 A machine learning-based clinical decision support tool for predicting ICU admission, estimating patient length of stay, and classifying patient risk levels based on MIMIC-III data.
 
